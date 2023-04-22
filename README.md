@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 # 💫 About Me:
 Hi there! My name is J Devi Priya and I am a B.Tech Computer Science & Engineering student. I am passionate about Python and machine learning and have been exploring these fields for several years.
